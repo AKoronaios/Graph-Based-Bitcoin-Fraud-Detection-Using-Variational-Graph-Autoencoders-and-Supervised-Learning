@@ -13,7 +13,7 @@ If you use this code in your research, please cite our paper:
 
 ## Features
 - **Graph-based Transaction Analysis:** We construct a transaction graph to model Bitcoin interactions.
-- - **Network Analysis for Feature Extraction:** We extract informative graph-based features.
+- **Network Analysis for Feature Extraction:** We extract informative graph-based features.
 - **Deep Learning for Classification:** We use a **Deep Neural Network (DNN)** as the classifier.
 - **Variational Graph Autoencoder (VGAE):** We generate graph embeddings for fraud detection.
 
