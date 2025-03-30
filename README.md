@@ -7,7 +7,7 @@ This repository contains the implementation of our research on **fraud detection
 If you use this code in your research, please cite our paper:
 
 > **Title:** Graph-Based Bitcoin Fraud Detection Using Variational Graph Autoencoders and Supervised Learning  
-> **Authors:** Argyrios Koronaios, Georgia Koloniari
+> **Authors:** Argyrios Koronaios Georgia Koloniari
 > **Published In:** The 8th International Conference on Emerging Data and Industry (EDI40),
 > **DOI:** 
 
